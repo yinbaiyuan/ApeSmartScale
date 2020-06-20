@@ -1,0 +1,20 @@
+核心材料
+
+Arduino nano			*1
+1602A 液晶显示屏		          	*1
+3kg高精度称重传感器              		*1
+hx711称重模块                		*1
+触摸模块				*2
+
+
+外壳制作材料（参考Design文件夹）
+5mm 透明亚克力切割排版       		*1
+
+
+
+PCB板及原件（参考Circuit文件夹）
+
+核心控制板 PCB板打样         		ApeSmartScale.PcbDoc
+元件请参考			BluetoothSpeakerMainBoard.pdf
+3362P	50K可调电阻		*1
+DC050	电源座			*1
